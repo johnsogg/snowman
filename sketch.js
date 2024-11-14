@@ -3,8 +3,8 @@ function setup() {
 }
 
 function draw() {
-  background('blue');
-  stroke('white');
+  background('lightblue');
+  stroke('black');
   ellipse(width / 2, height * .8, 100, 120);
   ellipse(width / 2, height * .6, 80, 70);
 }
